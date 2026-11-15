@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Client Environmental File
+client/.env
+
+# Server Environment file
+server/.env
+
+# Ignore everything inside uploads
+server/uploads/*
+
+# Allow companies folder and all its contents
+!server/uploads/companies/
+
+# Allow other folders to preserve their structure
+!server/uploads/employees/
+!server/uploads/jobseekers/
+!server/uploads/resumes/
+
+# Ignore all files inside these folders
+server/uploads/employees/*
+server/uploads/jobseekers/*
+server/uploads/resumes/*
+
+# Keep placeholder files
+!server/uploads/companies/.gitkeep
+!server/uploads/employees/.gitkeep
+!server/uploads/jobseekers/.gitkeep
+!server/uploads/resumes/.gitkeep
