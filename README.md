@@ -7,10 +7,10 @@
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-blue)
 
 ### Live Demo
-[View Live Project](your_url)
+[View Live Project](https://rolenex-two.vercel.app/)
 
 ### Source Code
-[GitHub Repository](https://github.com/Raj-Kumar-89/RoleNex---Online-Job-Portal-System)
+[GitHub Repository](https://github.com/Raj-Kumar-89/RoleNex)
 
 A modern **Online Job Portal System** developed using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. The platform connects **Job Seekers**, **Employers**, and **Administrators** in a single application where recruiters can post jobs, candidates can apply for opportunities, and administrators can manage the entire system.
 
