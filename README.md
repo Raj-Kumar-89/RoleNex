@@ -80,6 +80,66 @@ The project follows the **MVC Architecture**, exposes **RESTful APIs**, uses **J
 - Logout
 
 ---
+## Screenshots / Application Preview
+
+<table>
+  <tr>
+    <td><img src="Screenshots/Home.png" width="100%"></td>
+    <td><img src="Screenshots/Jobs_Page.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Home Page</td>
+    <td align="center">Jobs Page</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Companies.png" width="100%"></td>
+    <td><img src="Screenshots/Jobseeker_Profile.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Companies Page</td>
+    <td align="center">Jobseeker Profile</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Apply_Jobs.png" width="100%"></td>
+    <td><img src="Screenshots/Applied_Jobs.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Job Applying Page</td>
+    <td align="center">Applied Jobs - Jobseeker</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Employee_Login.png" width="100%"></td>
+    <td><img src="Screenshots/Employee_Profile.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Employee Login</td>
+    <td align="center">Employee Profile</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Posting_Jobs.png" width="100%"></td>
+    <td><img src="Screenshots/Posted_Jobs.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Post Job - Employee</td>
+    <td align="center">Posted Jobs - Employee</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/View_Applications-Employee.png" width="100%"></td>
+    <td><img src="Screenshots/Admin_Dashboard.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">View Application - Employee</td>
+    <td align="center">Admin Dashboard</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Manage_Contact_Messages.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Contact Messages</td>
+  </tr>
+</table>
+
+---
 
 # Technologies Used
 
